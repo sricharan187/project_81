@@ -1,0 +1,19 @@
+
+h1
+{
+    border-style: solid;
+    background-color: whitesmoke;
+	color:blue; 
+	font-size: 40px;
+}
+.body_background {
+    background-image: url("download.jpg");
+	background-position: center;
+	background-size: cover;  
+}
+
+#myCanvas{
+	border-width: 20px;
+	background-color: white;
+	border-style: dashed;
+}
